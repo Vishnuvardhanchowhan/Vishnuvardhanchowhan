@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnuvardhanchowhan
 - 👀 I’m interested in AI,ML,IOT and EE.
-- 🌱 I’m currently learning Deep learning and NLP.
+- 🌱 I’m currently learning about Deep learning and Web development.
 
 <!---
 Vishnuvardhanchowhan/Vishnuvardhanchowhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
